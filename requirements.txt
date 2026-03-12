@@ -1,0 +1,5 @@
+customtkinter
+mutagen
+Pillow
+ffmpeg-python
+pyinstaller
